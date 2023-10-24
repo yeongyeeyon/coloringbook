@@ -1,0 +1,16 @@
+<resources>
+    <integer-array name="color_array">
+        <item>@color/colorGreen</item>
+        <item>@color/colorRed</item>
+
+        <item>@color/colorBlue</item>
+        <item>@color/purple_200</item>
+        <item>@color/purple_500</item>
+        <item>@color/purple_700</item>
+        <item>@color/teal_200</item>
+        <item>@color/teal_700</item>
+        <item>@color/black</item>
+        <item>@color/white</item>
+        <!-- Add more colors from your resources as needed -->
+    </integer-array>
+</resources>

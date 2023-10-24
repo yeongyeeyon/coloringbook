@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.personal.coloringbook.utils.ColoringImageView
+        android:id="@+id/coloringImageView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <!-- Other views and controls for coloring -->
+
+    <LinearLayout
+        android:id="@+id/colorPaletteLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_alignParentBottom="true"
+        android:padding="16dp">
+
+        <!-- Color palette buttons will be dynamically added here -->
+
+    </LinearLayout>
+
+</RelativeLayout>

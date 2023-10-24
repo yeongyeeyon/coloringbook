@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Coloring App</string>
+    <string name="welcome_message">Welcome to My Coloring App!</string>
+    <string name="coloring_button_text">Start Coloring</string>
+    <string name="color_red">Red</string>
+    <string name="color_green">Green</string>
+    <string name="color_blue">Blue</string>
+    <!-- Add more string resources as needed -->
+</resources>
